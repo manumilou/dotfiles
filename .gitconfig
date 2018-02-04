@@ -1,0 +1,12 @@
+[user]
+	name = Emmanuel Milou
+	email = emmanuel.milou@shopify.com
+[rerere]
+	enabled = 1
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+[pull]
+	rebase = true
