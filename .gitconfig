@@ -12,3 +12,9 @@
 	gpgsign = true
 [pull]
 	rebase = true
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+	di = diff
