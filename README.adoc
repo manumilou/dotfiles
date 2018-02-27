@@ -1,0 +1,13 @@
+== My [awesome] dotfiles
+
+=== Vim
+
+==== Ctags
+
+.Generate the tags
+[source, bash]
+----
+ctags -R -f tags .
+----
+
+
