@@ -19,3 +19,4 @@
 	br = branch
 	di = diff
   aa = add --all
+  amend = commit --amend
