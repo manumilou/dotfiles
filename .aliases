@@ -11,4 +11,7 @@ fi
 alias ls="ls -lh ${ls_color}"
 alias ll="ls -lhA ${ls_color}"
 
-alias grep=grep --color=auto
+alias grep="grep --color=auto"
+alias sr="screen -r"
+
+alias vi="vim"
