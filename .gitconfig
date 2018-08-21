@@ -16,6 +16,8 @@
 	st = status
 	ci = commit
 	co = checkout
+  cehckout = checkout
+  checkotu = checkout
 	br = branch
 	di = diff
   aa = add --all
