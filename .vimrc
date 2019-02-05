@@ -12,6 +12,7 @@
 	set nu	" show line number
 	set showmatch	" show matching parenthesis
 	set hlsearch	
+  vnoremap <C-c> "*y
 " }
 
 " Formatting { 
