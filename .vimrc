@@ -4,6 +4,7 @@
 	scriptencoding utf-8
 	set mouse=a	" enable the mouse
 	set history=1000	" default is 20
+  colorscheme torte
 " }
 
 " Vim UI {
