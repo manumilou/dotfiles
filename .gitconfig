@@ -22,3 +22,12 @@
 	di = diff
   aa = add --all
   amend = commit --amend
+
+[diff]
+	algorithm = patience
+[protocol]
+	version = 2
+[credential]
+	helper = osxkeychain
+[core]
+	editor = vim
