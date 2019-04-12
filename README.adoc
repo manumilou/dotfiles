@@ -10,4 +10,6 @@
 ctags -R -f tags .
 ----
 
+=== ZSH
 
+With Prezto: https://github.com/sorin-ionescu/prezto
