@@ -1,4 +1,4 @@
-== My [awesome] dotfiles
+== My dotfiles
 
 === Vim
 
